@@ -1,4 +1,4 @@
 # github-demo
 This is my first repository.
 
-Author:Zakir Hussain Niazman
+Author:Zakir Hussain "Niazman"
